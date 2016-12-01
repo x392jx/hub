@@ -1,4 +1,4 @@
-apples
+APPLE
 oranges
 kiwis
 carrots
